@@ -53,4 +53,4 @@ Image path:
 9. Final Access Denied
 
 Image path:
-../../screenshots/access-denied/2026-04-18_14-23-06.png
+../screenshots/access-denied/2026-04-18_14-23-06.png
